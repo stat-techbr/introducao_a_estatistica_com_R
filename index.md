@@ -1,4 +1,5 @@
 
+## Introdução à Estatística com R
 
 [![author](https://img.shields.io/badge/Prof.-Edneide_Ramalho-red.svg)](https://www.linkedin.com/in/edneide-ramalho-05054ba2/) 👩‍💻	📊	
 
