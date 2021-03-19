@@ -1,4 +1,5 @@
 
+![](https://raw.githubusercontent.com/stat-techbr/introducao_a_estatistica_com_R/main/logo-stat-tech-color-horiz.png)
 ## Introdução à Estatística com R
 
 [![author](https://img.shields.io/badge/Profª.-Edneide_Ramalho-red.svg)](https://www.linkedin.com/in/edneide-ramalho-05054ba2/) 👩‍💻	📊	
