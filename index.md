@@ -42,9 +42,29 @@ Nesta parte vamos entender alguns conceitos básicos como:
 ### 📝 Parte 4: Distribuição Normal
 
 - O que é a distribuição normal e porque ela é importante
+- Distribuição Normal padrão
+- Calculando probabilidades a partir de uma distribuição Normal
+- Teste de Normalidade
+- Q-Q plot
+- Gráfico de densidade
 
 ### 📝 Parte 5: Teste de Hipóteses
 
-- O que é teste de hipóteses
+- O que é um teste de hipóteses
+- P-valor
+- Suposições para a realização dos testes
+  + Normalidade
+  + Homogeneidade de variância (homocedasticidade)
+- Principais testes de hipóteses, interpretação e como reportar os resultados:
+  + Qui-quadrado
+  + Teste Exato de Fisher
+  + Teste t de Student
+  + Teste de Mann-Whitney
+  + Teste t pareado
+  + Teste de Wilcoxon
+  + ANOVA (de um fator)
+  + Teste de Kruskal-Wallis
+  + ANOVA de medidas repetidas
+  + Teste de Friedman
 
 
