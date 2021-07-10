@@ -19,6 +19,9 @@ Abaixo, você encontra o link para baixá-los:
 
 **RStudio:** <https://rstudio.com/products/rstudio/download/>
 
+### 🔥 Esquenta para o curso 🔥 Aula 1 (Slides)
+<https://github.com/stat-techbr/introducao_a_estatistica_com_R/blob/main/001_aula_1_esquenta.pdf>
+
 
 ### 📝 Parte 1: Conceitos Básicos
 
