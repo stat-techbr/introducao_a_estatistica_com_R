@@ -4,7 +4,7 @@
 
 ---
 
-## Introdução à Estatística com R
+# Introdução à Estatística com R
 
 [![author](https://img.shields.io/badge/Profª.-Edneide_Ramalho-red.svg)](https://www.linkedin.com/in/edneide-ramalho-05054ba2/) 👩‍💻	📊	
 
@@ -23,8 +23,11 @@ Abaixo, você encontra o link para baixá-los:
 
 **Slides (Aula 1):** <https://bit.ly/2Vku2EY>
 
+**Vídeo (Aula 1 - YouTube):** <https://youtu.be/LsyUKJ6SQyQ>
 
-### 📝 Parte 1: Conceitos Básicos
+# Conteúdos do curso:
+
+## 📝 Parte 1: Conceitos Básicos
 
 Nesta parte vamos entender alguns conceitos básicos como:
 
@@ -34,14 +37,14 @@ Nesta parte vamos entender alguns conceitos básicos como:
 - Inferência Estatística 
 - Parâmetros e estatísticas
 
-### 📝 Parte 2: Estatística Descritiva
+## 📝 Parte 2: Estatística Descritiva
 
 - Medidas de resumo
   + Medidas de tendência central
   + Medidas de dispersão
 - Quantis e quartis
 
-### 📝 Parte 3: Gráficos com ggplot2
+## 📝 Parte 3: Gráficos com ggplot2
 
 - Gráfico de barras
 - Gráfico de barras agrupadas
@@ -49,7 +52,7 @@ Nesta parte vamos entender alguns conceitos básicos como:
 - Histograma
 - Box-plot
 
-### 📝 Parte 4: Distribuição Normal
+## 📝 Parte 4: Distribuição Normal
 
 - O que é a distribuição normal e porque ela é importante
 - Distribuição Normal padrão
@@ -58,7 +61,7 @@ Nesta parte vamos entender alguns conceitos básicos como:
 - Q-Q plot
 - Gráfico de densidade
 
-### 📝 Parte 5: Teste de Hipóteses
+## 📝 Parte 5: Teste de Hipóteses
 
 - O que é um teste de hipóteses
 - P-valor
